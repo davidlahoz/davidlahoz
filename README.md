@@ -13,4 +13,4 @@ I've worked mainly with Windows systems for several years, but now I'm managing 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/davidlahoz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/davidlahoz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
