@@ -4,10 +4,7 @@ Hello! David here!! 👋
 macOS System Administrator 💻
 -----------------------------
 
-I've worked mainly with Windows systems for several years, but now I'm managing a MacOS/iOS-based company. I've worked on IT focused on several scenarios: hotel industry, private security, media & telecommunications. I work in a Corporate Venture Building company based in Germany with several locations worldwide (Abu Dhabi, Singapore, Munich, Zurich, London, Valencia, and Kyiv).
-
-* 🌍  I'm based in Munich 🇩🇪
-* 🚀  I'm currently working on [Stryber](http://stryber.com)
+I've worked mainly with Windows systems for several years, but now I'm managing a MacOS/iOS-based company. I've worked on IT focused on several scenarios: hotel industry, private security, media & telecommunications. Now I work for [Stryber 🚀](http://stryber.com) a Corporate Venture Building company based in Germany with several locations worldwide (Abu Dhabi, Singapore, Munich, Zurich, London, Valencia, and Kyiv).
 
 
 ### Socials
